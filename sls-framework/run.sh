@@ -25,3 +25,5 @@ sls
 # logs
 sls logs -f hello -t
 
+sls invoke -f hello --log
+
